@@ -10,6 +10,13 @@
   * **change_siyuan_bg.sh** 是Windows端 配合Bing Wallerpaper 获取保存的本地壁纸的shell脚本
 	  * 不建议无编程基础的用户使用
 
+## V 3.1.0 Cliff
+- 对主界面布局进行调整
+- `alt 1` 呼出文件树
+- 修改配色
+- 调整菜单背景
+- 对部分元素效果进行调整
+
 ## V 2.0.0 Cliff
 
 * [X] 基本的透明面板布局
